@@ -31,7 +31,7 @@ class _DialogPageState extends State<DialogPage> {
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: SizedBox(
-          width: 600,
+          width: 500,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
